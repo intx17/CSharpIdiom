@@ -3,8 +3,8 @@ namespace Sales
 {
     public class Sale
     {
-        public Sale()
-        {
-        }
+        public string ShopName { get; set; }
+        public string ProductCategory { get; set; }
+        public int Amount { get; set; }
     }
 }

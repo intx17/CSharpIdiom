@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace Chap2Exercise
 {
